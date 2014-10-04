@@ -1,3 +1,5 @@
 .idea
 BigDataPlayground.iml
 lib
+bin
+slurm/*.out
